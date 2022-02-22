@@ -1,1 +1,150 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T14:21:30.981Z" agent="5.0 (X11)" etag="TQZRJNz4difwteDE3-KE" version="16.6.2" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-22T15:25:26.949Z" agent="5.0 (X11)" etag="4iIj-5KLjg8WgR7iy1yI" version="16.6.2" type="github" pages="2">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Using AI pipeline">
+    <mxGraphModel dx="1422" dy="735" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Choose AI PIPELINE&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-28" target="BuS1FlzZw8Br7jID2tsd-49">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="390" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-28" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="40" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="BuS1FlzZw8Br7jID2tsd-28">
+          <mxGeometry x="15" y="70" width="10" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-30" value="AI PIPELINE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="462" y="90" width="100" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="BuS1FlzZw8Br7jID2tsd-30">
+          <mxGeometry x="45" y="264" width="10" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-31" value="AI MODELS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="671" y="90" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-41" value="&lt;b&gt;LOOP&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="BuS1FlzZw8Br7jID2tsd-31">
+          <mxGeometry x="-240" y="330" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="BuS1FlzZw8Br7jID2tsd-31">
+          <mxGeometry x="45" y="315" width="10" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-33" value="&lt;b&gt;Ask user to choose &lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;INPUT,OUTPUT languages,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Format&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-49" target="BuS1FlzZw8Br7jID2tsd-28">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="340" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;User Chooses from the&lt;br&gt; possible Options&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" target="BuS1FlzZw8Br7jID2tsd-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="290" as="sourcePoint" />
+            <mxPoint x="260" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-38" value="&lt;b&gt;Send Input File to a AI model&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-30" target="BuS1FlzZw8Br7jID2tsd-31">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="340" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-40" value="&lt;b&gt;Return Output File&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-31" target="BuS1FlzZw8Br7jID2tsd-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="420" as="sourcePoint" />
+            <mxPoint x="260" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="540" />
+              <mxPoint x="500" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-49" value="Web Application" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="264" y="90" width="100" height="702" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=14;" vertex="1" parent="BuS1FlzZw8Br7jID2tsd-49">
+          <mxGeometry x="45" y="70" width="10" height="524" as="geometry" />
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-50" value="&lt;b&gt;Ask user INPUT&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-49">
+          <mxGeometry x="-0.0256" width="80" relative="1" as="geometry">
+            <mxPoint x="253" y="363" as="sourcePoint" />
+            <mxPoint x="99" y="330" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-51" value="&lt;b&gt;User gives INPUT&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-43" target="BuS1FlzZw8Br7jID2tsd-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="341" as="sourcePoint" />
+            <mxPoint x="253" y="341" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="198" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-52" value="&lt;b&gt;Give Input in a file &lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-49" target="BuS1FlzZw8Br7jID2tsd-30">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="253" y="341" as="sourcePoint" />
+            <mxPoint x="333" y="341" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="363" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-53" value="&lt;b&gt;OUTPUT the translated File&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-45" target="BuS1FlzZw8Br7jID2tsd-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="462" as="sourcePoint" />
+            <mxPoint x="253" y="462" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="627" />
+              <mxPoint x="407" y="627" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuS1FlzZw8Br7jID2tsd-55" value="&lt;b&gt;Output the translated File &lt;br&gt;in the format user asked&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="1" source="BuS1FlzZw8Br7jID2tsd-49" target="BuS1FlzZw8Br7jID2tsd-28">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="253" y="462" as="sourcePoint" />
+            <mxPoint x="333" y="462" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="671" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="twd7bJcnkuCuBotb0A2r" name="Subscription">
+    <mxGraphModel dx="1422" dy="735" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="vOCSpTTa94M3Ym_VW12d-0" />
+        <mxCell id="vOCSpTTa94M3Ym_VW12d-1" parent="vOCSpTTa94M3Ym_VW12d-0" />
+        <mxCell id="vOCSpTTa94M3Ym_VW12d-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;" vertex="1" parent="vOCSpTTa94M3Ym_VW12d-1">
+          <mxGeometry x="121" y="44" width="20" height="682" as="geometry" />
+        </mxCell>
+        <mxCell id="vOCSpTTa94M3Ym_VW12d-3" value="Web Application" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=14;" vertex="1" parent="vOCSpTTa94M3Ym_VW12d-1">
+          <mxGeometry x="308" y="44" width="100" height="671" as="geometry" />
+        </mxCell>
+        <mxCell id="L7XBonlleoNzJHHNmRoa-2" value="Select a AI Pipeline to Subscribe" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;" edge="1" parent="vOCSpTTa94M3Ym_VW12d-1" source="vOCSpTTa94M3Ym_VW12d-2" target="vOCSpTTa94M3Ym_VW12d-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="374" y="374" as="sourcePoint" />
+            <mxPoint x="454" y="374" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="231" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
